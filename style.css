@@ -1,0 +1,171 @@
+/*
+{
+	border: 1px solid red !important;
+}*/
+
+nav 
+{
+	display: flex;
+	align-items: : flex-end;
+	justify-content: flex-end;
+	align-items: normal; 
+    align-items: stretch; 
+    font-style: arial, sans-serif;
+    margin-top: 25px;
+    margin-right: 20px;
+	
+}
+
+.gmail
+{
+	padding-right: 25px;
+	color: rgba(0,0,0,0.87);
+	font-size: 14px;
+}
+
+.images
+{
+	padding-right: 10px;
+	color: rgba(0,0,0,0.87);
+	font-size: 14px;
+}
+
+.applications
+{
+	padding-right: 10px;
+
+}
+
+.connexion
+{
+	padding: 10px 10px;
+/*	text-decoration-color: rgb(255,255,255);
+*/	border: 4px blue;
+/*	background-color: blue;*/
+	color: white;
+	background: -webkit-linear-gradient(top,#4387fd,#4683ea);
+	font-weight: bold;
+	font-size: 13px;
+	border-radius: 1px;
+}
+
+a
+{
+	text-decoration: none;
+	
+	/*color:rgba(0,0,0,0.87);*/
+}
+
+#google_center_elements
+{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding-top: 120px;
+}
+
+.image_google_centrale
+{
+	display: flex;
+	justify-content: center;
+}
+
+.barre
+{
+	width: 559px;
+	height: 34px;
+	outline: none;
+	border:none;
+}
+
+.div_barre 
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 44px;
+	width: 584px;
+	border: 1px solid #FFFFFF;
+	border-radius: 2px;
+	box-shadow: 0 2px 2px 0
+}
+.boutons
+{
+	display: flex;
+	justify-content: center;
+	margin-top: 18px;
+}
+.boutona, .boutonb
+{
+	font-size: 13px;
+	font-weight: bold;
+	font-family: Arial;
+	color: #757575;
+	border: 1px solid #f2f2f2;
+	border-radius: 2px;
+	background-color: #f2f2f2;
+	box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+	margin: 11px 4px;
+	padding: 11px 16px;
+}
+
+footer 
+{
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif, Verdana, Impact;
+    font-size: small;
+    background: #f2f2f2;
+    position: absolute;
+    bottom:0;
+    width:100%;
+    overflow: hidden;
+    line-height: 40px;
+}
+
+.pays
+{
+    display: flex;
+    color: rgba(0,0,0,0.54);
+    height: 41;
+    margin-left: 27px;
+    text-align: left;
+    border-top: 1px solid #e4e4e4;
+}
+
+.liens
+{
+    display: flex;
+    justify-content: center;
+    color: rgba(0,0,0,0.54);
+    height: 41;
+    padding-left: 27px;
+}
+
+.liens2
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 30px;
+    border-top: 1px solid #e4e4e4;
+}
+
+.part1
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.part2
+{
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+
+
+
+
